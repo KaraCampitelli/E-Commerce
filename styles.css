@@ -123,6 +123,7 @@ li {
 .menu--open .menu__backdrop {
     visibility: visible;
     opacity: 1;
+    transform: translate(0);
 }
 
 .menu__links {
